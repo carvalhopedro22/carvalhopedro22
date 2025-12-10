@@ -7,8 +7,10 @@
   
   Bem-vindo(a) ao meu GitHub =)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cdcm-9560441a3/)
+### 📈 Resumo
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carvalhopedro22&theme=tokyonight)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cdcm-9560441a3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_pedrocdcm)
 
 ## Portfólio
