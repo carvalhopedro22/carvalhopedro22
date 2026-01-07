@@ -1,9 +1,9 @@
 ## Olá! Me chamo Pedro! 😄
 <p style="text-align: justify;"> Sou Bacharel e Mestre em Ciência da Computação pela UFV; Licenciado em Matemática pela UniCV; Pós-graduado em Matemática e Física e Pós-graduado em Matemática Financeira e Estatística, ambas pela FAVENI. 
   
-  Minha pesquisa do Mestrado foi na área de Ciência de Dados e Informática na Educação e pretendo seguir para o Doutorado em breve. 
+  Minha pesquisa do Mestrado foi na área de Ciência de Dados e Informática na Educação. 
 
-  Atualmente atuo como professor de Matemática no Universo Narrado.
+  Atualmente atuo como professor de Matemática (LM PRO) no Universo Narrado.
   
   Bem-vindo(a) ao meu GitHub =)
 
